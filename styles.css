@@ -1,9 +1,9 @@
 
 /* Your CSS Code here. */
-.container {
-	background-color: lightblue;
-	width: 300px;
-	padding: 50px;
-	border: 15px solid blue;
-	margin: 20px;
-}
+.container{
+	background-color:lightblue;
+	width:300px;
+	padding:50px;
+	border:15px solid blue;
+	margin:20px; 
+} 
