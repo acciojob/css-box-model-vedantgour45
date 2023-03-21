@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-div {
+.container {
 	background: lightblue;
 	width: 300px;
 	padding: 50px;
